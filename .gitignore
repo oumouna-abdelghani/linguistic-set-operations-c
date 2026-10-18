@@ -1,0 +1,12 @@
+# Compiled binaries & object files
+*.exe
+*.o
+*.out
+*.a
+*.so
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
